@@ -4,6 +4,8 @@ https://web-design-and-development-ca-2.vercel.app/index.html
 Ryan Stokes
 Arisha Mirza
 Aneta Kotas
+![image](https://github.com/user-attachments/assets/184e620c-cbe0-48f9-9b31-49edfdc2c77a)
+
 Submitted to: Hamilton Niculescu
 Saturday 5th August 2023
 Table of Contents
